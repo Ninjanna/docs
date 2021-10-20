@@ -1,4 +1,4 @@
-Fragenkatalog für Interviews:
+# Fragenkatalog für Interviews
 
 - Was sind Painpoints bei P&P?
 - Würdest du einen Sprachassistenten oder eine Web-basierte Anwendung verwenden?
